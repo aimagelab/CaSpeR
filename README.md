@@ -1,5 +1,5 @@
 
-Repository of [CaSpeR: Latent Spectral Regularization for Continual Learning]
+Repository of [Latent Spectral Regularization for Continual Learning](https://www.sciencedirect.com/science/article/pii/S0167865524001909)
 
 
 ## Run Experiments
